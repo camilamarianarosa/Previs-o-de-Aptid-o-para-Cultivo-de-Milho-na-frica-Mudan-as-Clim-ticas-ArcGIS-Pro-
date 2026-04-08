@@ -1,4 +1,5 @@
-Previsão de Aptidão para Cultivo de Milho na África – Mudanças Climáticas (ArcGIS Pro)
+#Previsão de Aptidão para Cultivo de Milho na África – Mudanças Climáticas (ArcGIS Pro)#
+
 Projeto desenvolvido durante o curso GIS for Climate Action (Esri). O objetivo é modelar a aptidão atual e futura para o cultivo de milho em uma região da África Subsaariana utilizando o modelo de machine learning Presence-Only Prediction (MaxEnt), comparando variáveis bioclimáticas baseline com o cenário climático SSP3 7.0 para 2055.
 
 Cenário
