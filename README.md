@@ -1,0 +1,1 @@
+# Previs-o-de-Aptid-o-para-Cultivo-de-Milho-na-frica-Mudan-as-Clim-ticas-ArcGIS-Pro-
